@@ -1,6 +1,6 @@
 {
   "name": "regex-trie-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create regular expression patterns based on a list of strings to be matched.",
   "homepage": "https://github.com/mathiasbynens/regex-trie-cli",
   "bin": {
